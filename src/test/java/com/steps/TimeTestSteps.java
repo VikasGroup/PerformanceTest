@@ -1,4 +1,4 @@
-package com.test;
+package com.steps;
 
 import com.hana.core.BasicTest;
 import com.hana.luncher.DriverLuncher;
